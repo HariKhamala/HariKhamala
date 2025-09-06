@@ -69,6 +69,6 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 
 <p>
   <a href="https://www.linkedin.com/in/hari-khamala-s-06b434266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-HariKhamala-informational"></a>
-  <a href="mailto:harikhamala@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-harikhamala2210771%40ssn.edu-red"></a>
+  <a href="mailto:harikhamala@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-harikhamala%40gmail.com-red"></a>
   <a href="https://github.com/HariKhamala" target="_blank"><img src="https://img.shields.io/badge/GitHub-HariKhamala-black"></a>
 </p>
